@@ -1,0 +1,14 @@
+high PSR: highest closing price * corresponding volume / yearly revenue
+low PSR: lowest closing price * corresponding volume / yearly revenue
+
+closing price and volume can be gotten from historical data
+
+PRR: closing price * corresponding volume / research development
+
+both low = short list
+both high = ignore
+mismatched = look closer
+
+1. calculate sector average PSR
+2. low == ?
+3. if large cap, low should be different from if mid or small cap.
